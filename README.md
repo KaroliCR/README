@@ -1,4 +1,4 @@
-# READMY
+# README
 
 <h1 align="center">Hi 👋, I'm Karolay A.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karolicr&label=Profile%20views&color=0e75b6&style=flat" alt="karolicr" /> </p>
@@ -20,3 +20,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karolicr&show_icons=true&locale=en" alt="karolicr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karolicr&" alt="karolicr" /></p>
+
